@@ -43,11 +43,8 @@ This project is an Automatic Cat Feeder designed and built as an embedded system
 - `HW/` - Schematics, PCB layout, and hardware resources
 
 ## Pictures
-<!-- Drop your first project picture here -->
-![Project Picture 1](path/to/your/picture1.jpg)
 
-<!-- Drop your second project picture here -->
-![Project Picture 2](path/to/your/picture2.jpg)
+![Auto Cat Feeder](https://github.com/user-attachments/assets/dab54155-8595-42e3-9ac9-b437438597ae)
 
 ## Credits
 Developed for EE 445L Embedded Systems coursework, 2022.
